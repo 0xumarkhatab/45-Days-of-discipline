@@ -1,3 +1,3 @@
 ### 45 Days of Discipline
 
-    October 10
+    October 6
