@@ -1,4 +1,8 @@
 ### 45 Days of Discipline
 
-    October 5
-    October 6
+1. <del>October 5</del>
+
+2. <del>October 6</del>
+
+<mark>Non disciplined</mark>
+
