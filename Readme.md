@@ -19,5 +19,5 @@
 7. October 17
 8. October 18
 9. October 19
-10.October 20
-11.October 21
+10. October 20
+12. October 21
