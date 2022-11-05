@@ -8,7 +8,7 @@
 
 1. October 8
 
-<mark>Non disciplined</mark>
+<mark>Disciplined</mark>
 
 1. October 10
 2. October 11
