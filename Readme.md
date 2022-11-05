@@ -8,7 +8,7 @@
 
 1. October 8
 
-<mark>Disciplined</mark>
+<mark>Non-Disciplined</mark>
 
 1. October 10
 2. October 11
@@ -33,3 +33,5 @@
 22. October 31
 23. November 1
 24. November 2
+25. November 3
+26. November 4
